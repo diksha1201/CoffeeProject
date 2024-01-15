@@ -1,7 +1,7 @@
 # CoffeeProject
 Web Development Project: Coffee Website
 
-Role: Developer | Tools: HTML, CSS
+Role: Developer | Tools: HTML, CSS(VScode)
 
 Description:
 Designed and developed a visually appealing static website dedicated to showcasing a variety of coffee-related content. Leveraging HTML and CSS, I implemented a thoughtfully crafted layout, emphasizing seamless user experience and responsive design.
