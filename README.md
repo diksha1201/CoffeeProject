@@ -13,7 +13,7 @@ Key Contributions:
 *Collaborated with a team to refine the project and incorporate valuable feedback.
 
 Technologies Used:
-HTML
-CSS
+HTML.
+CSS.
 *Refer Web designing-Project.pdf
 *Refer coffee.pdf
